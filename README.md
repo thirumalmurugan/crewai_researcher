@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CrewaiResearcher Crew
 
 Welcome to the CrewaiResearcher Crew project, powered by [crewAI](https://crewai.com). This project demonstrates a multi-agent AI system designed to conduct deep research and generate comprehensive reports automatically.
@@ -97,3 +98,6 @@ def run():
 - [crewAI Documentation](https://docs.crewai.com)
 - [crewAI GitHub](https://github.com/joaomdmoura/crewai)
 - [crewAI Discord](https://discord.com/invite/X4JWnZnxPb)
+=======
+# crewai_researcher
+>>>>>>> 5062df22ca55a21094066d5185425ac07d3a4ca9
